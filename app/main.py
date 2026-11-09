@@ -1,0 +1,3 @@
+print("HELLO leangear-AI USER")
+print("WELCOME TO OUR leangear_AI")
+print("YOUR NUTRITION JOURNEY STARTS FROM HERE")
